@@ -1,6 +1,6 @@
 {
   "name": "electron-updater-example",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Giovanni Giordano",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/giovannigiordano/electron-updater-example"
+    "url": "https://github.com/giovannigiordano/electron-updater-example.git"
   },
   "build": {
     "appId": "com.github.giovannigiordano.electronupdaterexample",
