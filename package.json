@@ -1,9 +1,12 @@
 {
   "name": "electron-updater-example",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Giovanni Giordano",
+  "scripts": {
+    "dist": "build --win -p always"
+  },
   "devDependencies": {
     "electron": "^1.4.15",
     "electron-builder": "^12.3.1"
